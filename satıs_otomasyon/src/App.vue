@@ -170,7 +170,7 @@
     </div>
     
     <!-- Durum Çubuğu -->
-    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-2 px-4 text-sm text-gray-600 dark:text-gray-400">
+    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-2 px-4 text-sm text-gray-600 dark:text-gray-400 mt-64">
       <div class="container mx-auto flex justify-between items-center">
         <div>CafePOS v1.0</div>
         <div>{{ currentDate }}</div>
